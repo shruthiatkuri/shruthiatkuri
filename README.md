@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# 💫 About Me:
+## 💫 About Me:
 Hi, I'm **Shruthi** 👋<br><br>I'm an **AI Engineer** passionate about building practical, production-oriented AI systems and understanding what happens under the hood—not treating AI as a black box.<br>My work focuses on **Machine Learning, Deep Learning, Computer Vision, LLMs, RAG, AI Agents, and backend AI engineering**. I enjoy turning ideas into end-to-end systems using technologies such as **Python, PyTorch, LangChain, LangGraph, FastAPI, and Docker**.<br>Currently, I'm focused on strengthening my **production AI engineering** skills and building scalable applications that combine intelligent models with reliable software systems.<br><br>**Always learning. Always building.**<br>
 
 
